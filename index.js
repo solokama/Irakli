@@ -162,5 +162,10 @@ const mySubjects = ["Mathematics", "Physics"];
 
 
 
+//The future is promised to the hardworking ones
+//Dont' give up brother!
+
+
+
 
 
