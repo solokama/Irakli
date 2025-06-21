@@ -166,6 +166,11 @@ const mySubjects = ["Mathematics", "Physics"];
 //Dont' give up brother!
 
 
+//Inshallah
+
+//I am typing this from Visual studio man:)
+
+
 
 
 
