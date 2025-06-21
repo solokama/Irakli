@@ -154,6 +154,8 @@ let ourSchools =["Julfred","Queen of Peace","Gaturiri","Mathaithi"];
 
 ourSchools[3] ="Future Leaders";
 console.log(ourSchools[3]);
+const myCars = ["Corola","BMW"];
+
 
 
 
