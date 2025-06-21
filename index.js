@@ -156,6 +156,10 @@ ourSchools[3] ="Future Leaders";
 console.log(ourSchools[3]);
 const myCars = ["Corola","BMW"];
 
+const mySubjects = ["Mathematics", "Physics"];
+//Learning new things every day
+//Learning new concepts everyday
+
 
 
 
